@@ -1,0 +1,4 @@
+#Wed Sep 02 13:24:33 BRT 2020
+base.0=/home/keslleyjc/Documentos/curso-flutter/flutter/app_calculadora_sementes/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
